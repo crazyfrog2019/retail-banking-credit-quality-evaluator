@@ -1,0 +1,10 @@
+# INTENTIONALLY INSECURE LAB CONFIG
+debug: true
+tls_verify: false
+allow_all_origins: true
+database:
+  username: admin
+  password: admin-password-123
+logging:
+  include_request_bodies: true
+  include_credentials: true

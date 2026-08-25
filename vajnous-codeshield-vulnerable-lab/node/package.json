@@ -1,0 +1,13 @@
+{
+  "name": "codeshield-vulnerable-node-deps",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Intentionally vulnerable dependency manifest for Vajnous CodeShield lab testing",
+  "dependencies": {
+    "axios": "0.21.1",
+    "express": "4.17.1",
+    "jsonwebtoken": "8.5.1",
+    "lodash": "4.17.15",
+    "minimist": "1.2.5"
+  }
+}
